@@ -2,6 +2,7 @@ import type React from "react"
 import type { Metadata } from "next"
 import { Geist, Geist_Mono } from "next/font/google"
 import Script from "next/script"
+import { Analytics } from "@vercel/analytics/next"
 import "./globals.css"
 import { getCurrentSite } from "@/src/lib/siteResolver"
 import { getSchemaForSite } from "@/src/lib/schema"
@@ -79,6 +80,7 @@ export default async function RootLayout({
           </>
         )}
         {children}
+        <Analytics />
       </body>
     </html>
   )
