@@ -3,7 +3,7 @@ import { standardOfferBullets, standardFeatures, standardFAQ } from "./shared/st
 
 export const malareConfig: SiteConfig = {
   id: "starta-malerifirma",
-  domain: "starta-malerifirma.se",
+  domain: "www.starta-malerifirma.se",
   type: "hemsida",
   lang: "sv",
 

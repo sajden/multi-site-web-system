@@ -3,7 +3,7 @@ import { standardOfferBullets, standardFeatures, standardFAQ } from "./shared/st
 
 export const frisorConfig: SiteConfig = {
   id: "starta-frisor",
-  domain: "starta-frisor.se",
+  domain: "www.starta-frisor.se",
   type: "hemsida",
   lang: "sv",
 

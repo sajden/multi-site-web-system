@@ -3,7 +3,7 @@ import { standardOfferBullets, standardFeatures, standardFAQ } from "./shared/st
 
 export const elektrikerConfig: SiteConfig = {
   id: "starta-elfirma",
-  domain: "starta-elfirma.se",
+  domain: "www.starta-elfirma.se",
   type: "hemsida",
   lang: "sv",
 

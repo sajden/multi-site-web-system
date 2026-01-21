@@ -3,7 +3,7 @@ import { standardOfferBullets, standardFeatures, standardFAQ } from "./shared/st
 
 export const stadConfig: SiteConfig = {
   id: "starta-stadfirma",
-  domain: "starta-stadfirma.se",
+  domain: "www.starta-stadfirma.se",
   type: "hemsida",
   lang: "sv",
 

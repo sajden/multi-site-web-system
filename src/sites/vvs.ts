@@ -3,7 +3,7 @@ import { standardOfferBullets, standardFeatures, standardFAQ } from "./shared/st
 
 export const vvsConfig: SiteConfig = {
   id: "starta-vvs",
-  domain: "starta-vvs.se",
+  domain: "www.starta-vvs.se",
   type: "hemsida",
   lang: "sv",
 

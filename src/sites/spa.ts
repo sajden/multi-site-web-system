@@ -3,7 +3,7 @@ import { standardOfferBullets, standardFeatures, standardFAQ } from "./shared/st
 
 export const spaConfig: SiteConfig = {
   id: "starta-spa",
-  domain: "starta-spa.se",
+  domain: "www.starta-spa.se",
   type: "hemsida",
   lang: "sv",
 

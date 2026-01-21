@@ -3,7 +3,7 @@ import { standardOfferBullets, standardFeatures, standardFAQ } from "./shared/st
 
 export const bilverkstadConfig: SiteConfig = {
   id: "starta-bilverkstad",
-  domain: "starta-bilverkstad.se",
+  domain: "www.starta-bilverkstad.se",
   type: "hemsida",
   lang: "sv",
 

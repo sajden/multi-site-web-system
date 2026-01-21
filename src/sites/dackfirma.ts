@@ -3,7 +3,7 @@ import { standardOfferBullets, standardFeatures, standardFAQ } from "./shared/st
 
 export const dackfirmaConfig: SiteConfig = {
   id: "starta-dackfirma",
-  domain: "starta-dackfirma.se",
+  domain: "www.starta-dackfirma.se",
   type: "hemsida",
   lang: "sv",
 
